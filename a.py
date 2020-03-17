@@ -1,2 +1,0 @@
-# a.py
-import sys
