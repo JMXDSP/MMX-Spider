@@ -1,5 +1,5 @@
 # MMX-Spider
-基于Windows环境的抖音自动化爬取  
+python + appium + fiddler的手机自动化爬取App
 【开发环境】
 
 编程工具：pycharm
@@ -23,6 +23,8 @@ Andrio手机：夜神模拟器
 【环境安装】
 
 1.Android environment：（安装夜神模拟器， Android-SDK）
+建议通过Android Studio安装JDK，配置环境变量；安装JAVA SDK；安卓模拟器: 常用的模拟器有
+genymotion（收费），天天模拟器，夜神模拟器，领航模拟器
 
 2.Appium：(安装依赖三个环境：Node.js、Java、Android-SDK)端口4723
 
