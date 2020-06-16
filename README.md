@@ -1,5 +1,4 @@
-# MMX-Spider
-## Information dissemination model
+# Information dissemination model
 &nbsp;&nbsp;With the arrival of big data, blockchain and 5G, we have entered the information age.Massive data and information spread on the Internet,so who has mastered the information and who has grasped the development direction of this era,therefore, it is necessary to master the law of information dissemination.
 ## Idea of the project
 Part 1  Data capture  
